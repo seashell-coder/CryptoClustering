@@ -1,6 +1,6 @@
 # CryptoClustering
 
-![Alt Text](./Resources/crypto.png)
+![Alt Text](./images/crypto.png)
 
 ## DESCRIPTION
 - In this challenge, we'll try to predict if cryptocurrencies are affected by 24-hour or 7-day price changes using Python and unsupervised learning.
